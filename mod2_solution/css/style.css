@@ -10,3 +10,9 @@
 @media(min-width: 767px) {
 
 }
+
+section {
+  border: 1px solid black;
+  width: 33.3%;
+  height: 200px;
+}
